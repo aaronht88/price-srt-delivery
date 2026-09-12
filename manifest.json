@@ -1,0 +1,16 @@
+{
+  "site": "https://aaronht88.github.io/price-srt-delivery",
+  "updated": "2026-09-12T18:30:32",
+  "items": [
+    {
+      "label": "pw340",
+      "srt": "https://aaronht88.github.io/price-srt-delivery/pw340.srt",
+      "txt": "https://aaronht88.github.io/price-srt-delivery/pw340.txt",
+      "cues": 326,
+      "start": "00:00:00,000",
+      "bytes": 23090,
+      "mtime": "2026-09-12",
+      "latest": true
+    }
+  ]
+}
